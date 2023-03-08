@@ -2,7 +2,7 @@
 
 Welcome to my page!
 
-I'm Andrew, **Frontend** developer from **Gdansk**.
+I'm Andrew, **Web** developer from **Gdansk**.
 
 Technologies that I used:
 <p>
@@ -14,6 +14,7 @@ Technologies that I used:
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" /> 
 </p>
 
@@ -23,6 +24,7 @@ Technologies that I used:
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual+studio+code&logoColor=white&style=flat" />
 </p>
+
 
 
 
